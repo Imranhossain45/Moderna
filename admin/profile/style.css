@@ -1,0 +1,46 @@
+body{
+    font-family: 'Open Sans', 'sans-serif';
+}
+.about-container{
+    background-color: #00bdbd;
+}
+.education-container{
+    background-color: #eeeeee;
+}
+.skill-container{
+    background-color: #eeeeee;
+}
+.redtype-color{
+    color:#FB857F;
+}
+.bg-redtype{
+    background-color: #FB857F;
+}
+.circle{
+    background-color: #FB857F;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.circle1{
+    background-color: #aeafe9;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.footer-container{
+    background-color: #2BB3DD;
+}
+.circle2{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    color: #2BB3DD;
+    font-size: 40px;
+    text-align: center;
+}
+.circle1:hover{
+    background-color: black;
+}
